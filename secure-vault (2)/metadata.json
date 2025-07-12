@@ -1,0 +1,5 @@
+{
+  "name": "Secure Vault",
+  "description": "A client-side encrypted notes application to securely store sensitive information. All data is encrypted and stored locally in your browser, and is only accessible with your master password.",
+  "requestFramePermissions": []
+}
